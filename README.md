@@ -3,8 +3,6 @@
 
 **Course:** Artificial Intelligence for Security  
 **Assignment Type:** Group Project  
-**Submission Date:** 18 December 2025  
-**Presentation Date:** 19 December 2025  
 
 ---
 
